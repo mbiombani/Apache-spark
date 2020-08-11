@@ -1,7 +1,7 @@
 # Apache-spark
 Analyse et visualisation de données à grande échelle sur des données semi-structurées
 
-![architecture](img.png)
+![architecture](im.png)
 
 
 ## Apache SPARK utilisant Jupyter dans LINUX : Installation et configuration
